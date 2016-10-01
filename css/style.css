@@ -1,0 +1,27 @@
+
+.wrapper {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	width: 70vw;
+	height: 50vh;
+	background: #333;
+	margin: 25vh 0 0 15vw;
+	border: 2px solid #000;
+	border-radius: 5%;
+}
+
+button {
+	margin-top: 5vw;
+	width: 30%;
+	height: 10vh;
+	border-radius: 5%;
+	font-size: 5vh;
+	font-family: sans-serif;
+}
+
+p {
+	color: #F3EC1F;
+	font-size: 5vh;
+}
+
